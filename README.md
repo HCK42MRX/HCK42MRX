@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hck42mrx&label=Profile%20views&color=0e75b6&style=flat" alt="hck42mrx" /> </p>
 
 <div style="display: flex; justify-content: space-between">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/tumblr_lgu0km7Ssw1qbzdzno1_500.gif">
 
 - 🔭 I’m currently working on [helpdesk-ticket](https://github.com/HCK42MRX/helpdesk-ticket)
 
@@ -19,7 +20,6 @@
 
 - ⚡ Fun fact **i'm Paranoid Android**
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/tumblr_lgu0km7Ssw1qbzdzno1_500.gif">
 
 </div>
 
