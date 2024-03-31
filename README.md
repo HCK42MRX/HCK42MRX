@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm HCK42MRX(Fake Name)</h1>
 <h3 align="center">A passionate Web Developer from earth :)</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hck42mrx&label=Profile%20views&color=0e75b6&style=flat" alt="hck42mrx" /> </p>
 
 <div style="display: flex; justify-content: space-between">
@@ -19,7 +18,6 @@
 
 - ⚡ Fun fact **i'm Paranoid Android**
 
-
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,16 +27,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,django,express,flask,github,html,javascript,linux,mongodb,mysql,prisma,nextjs,nodejs,python,react,sass,sqlite,tailwindtheme=light&perline=5" />
   </a>
-</p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hck42mrx&show_icons=true&locale=en&layout=compact" alt="hck42mrx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hck42mrx&show_icons=true&locale=en" alt="hck42mrx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hck42mrx&" alt="hck42mrx" /></p>
-
