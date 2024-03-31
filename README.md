@@ -1,8 +1,8 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcreepy&psig=AOvVaw3EuLdMJwS0GLb5QpT1ZMN9&ust=1711956653812000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi98dP9nYUDFQAAAAAdAAAAABAE)](https://github.com/HCK42MRX)
+[![MasterHead](https://i.gifer.com/tQN.gif)](https://github.com/HCK42MRX)
 <h1 align="center">Hi 👋, I'm HCK42MRX(Fake Name)</h1>
 <h3 align="center">A passionate Web Developer from earth :)</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fradiohead-king-of-limbs-radiohead-lotus-flower-gif--539165386612215024%2F&psig=AOvVaw2kQn8TzRZ0o5G_3UGUt_KM&ust=1711956500117000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjU0479nYUDFQAAAAAdAAAAABAE"
+<img align="right" alt="coding" width="400" src="https://pin.it/1PeVob8r3"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hck42mrx&label=Profile%20views&color=0e75b6&style=flat" alt="hck42mrx" /> </p>
 
