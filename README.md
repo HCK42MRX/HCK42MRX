@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm HCK42MRX(Fake Name)</h1>
 <h3 align="center">A passionate Web Developer from earth :)</h3>
 
+img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/tumblr_lgu0km7Ssw1qbzdzno1_500.gif"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hck42mrx&label=Profile%20views&color=0e75b6&style=flat" alt="hck42mrx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hck42mrx" alt="hck42mrx" /></a> </p>
