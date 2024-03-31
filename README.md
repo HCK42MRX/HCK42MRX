@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/HCK42MRX">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,tailwind,nodejs,react,express,nextjs,python,flask,django,prisma,mongodb,mysql,sqlite,github,linux&theme=light&perline=6" />
   </a>
 
