@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hck42mrx&label=Profile%20views&color=0e75b6&style=flat" alt="hck42mrx" /> </p>
 
-<div style="display: flex; justify-content: space-between">
-
 - 🔭 I’m currently working on [helpdesk-ticket](https://github.com/HCK42MRX/helpdesk-ticket)
 
 - 🌱 I’m currently learning **Next.JS, React, Python**
@@ -16,8 +14,6 @@
 - 📫 How to reach me **buditarmijisparepart223@gmail.com**
 
 - ⚡ Fun fact **i'm Paranoid Android**
-
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
