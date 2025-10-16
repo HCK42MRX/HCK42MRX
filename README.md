@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/HCK42MRX](https://github.com/HCK42MRX)
 
 - 💬 Ask me about **Anything**
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-bagas-airlangga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-bagas-airlangga" height="30" width="40" /></a>
